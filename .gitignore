@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+meeting-reviews/
+.env
